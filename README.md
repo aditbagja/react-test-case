@@ -1,3 +1,7 @@
+# This is the answer for Frontend Challenge eigen3dev
+master branch for react frontend challenge
+algoritma branch for algoritma challenge
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
