@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+nav ul {
+  margin: auto 0;
+  list-style-type: none;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+}
+footer {
+  text-align: center;
+}
