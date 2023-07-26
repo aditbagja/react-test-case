@@ -1,5 +1,5 @@
 # This is the answer for Frontend Challenge eigen3dev
-master branch for react frontend challenge
+master branch for react frontend challenge.\
 algoritma branch for algoritma challenge
 
 # Getting Started with Create React App
